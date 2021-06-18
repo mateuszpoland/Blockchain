@@ -1,0 +1,6 @@
+{ "from": "Mati", "to": "Bazyl", "value": 10, "data": ""}
+{ "from": "Mati", "to": "Mati", "value": 20, "data": "reward"}
+{ "from": "Bazyl", "to": "Daniel", "value": 15, "data": ""}
+{ "from": "Daniel", "to": "Wróbel", "value": 5, "data": ""}
+{ "from": "Mati", "to": "Mati", "value": 20, "data": "reward"}
+{ "from": "Mati", "to": "Wróbel", "value": 20, "data": "reward"}
